@@ -1,6 +1,6 @@
-## Hi there 👋 It's me Dinesh M
+## Hi There 👋 It's me Dinesh M
 
- Recently graduated Final year B.Tech Information Technology Student. 
+I recently graduated with a B.Tech in Information Technology.
 
                                                  
 - 🌱 I’m currently learning Python Full stack development
